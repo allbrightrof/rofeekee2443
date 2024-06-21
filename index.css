@@ -39,7 +39,7 @@ nav ul li a{
     border-radius:4px ;
 }
 .section-1{
-    background: url('img/slider.jpg');
+    background: url('./slider.jpg');
     height:auto;
     width:100%;
     background-color: #000000;
@@ -192,7 +192,7 @@ width: 50%;
         }
         #section-5{
         position: relative;
-  background: url('img/video-bg.jpg') no-repeat center center ;
+  background: url('./video-bg.jpg') no-repeat center center ;
   background-size: cover;
   color: white;
   z-index:-2;
